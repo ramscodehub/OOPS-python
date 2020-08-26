@@ -1,1 +1,1 @@
-# OOPS-python
+#OBJECT ORIENTED PROGRAMMING (OOP) is a programming concept that works on the principles of abstraction, encapsulation, inheritance, and polymorphism. It allows users to create the objects that they want and then, create methods to handle those objects.
